@@ -5,7 +5,7 @@
 - 👀 I’m deeply interested in the world of digital streaming and media distribution.
 - 🌱 I’m currently exploring new technologies and strategies to enhance user experience in digital TV services.
 - 💞️ I’m looking to collaborate with tech enthusiasts and developers passionate about revolutionizing the way we experience TV and media.
-- 📫 You can reach me at [info@iptvreseller.ma](mailto:info@iptvreseller.ma) for collaborations, queries, or just to say hello!
+- 📫 You can reach me at [support@iptvreseller.ma](mailto:support@iptvreseller.ma) for collaborations, queries, or just to say hello!
 
 ## What I Do
 At IPTVRESELLER.ma, we're dedicated to empowering digital streaming services and resellers. We provide tools and solutions that help in seamlessly distributing diverse content to a global audience.
